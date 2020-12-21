@@ -3,8 +3,8 @@ layout:
 title:
 description:
 img:
-importance: 9999
-category: fun
+importance: 4
+category:
 ---
 
 Every project has a beautiful feature showcase page.

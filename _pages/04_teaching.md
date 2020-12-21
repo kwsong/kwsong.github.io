@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: things I've taught
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 <h2>technical courses</h2>
 <b>Co-Instructor - CS 160: User Interface Design and Development (Summer 2023, UC Berkeley)</b>
@@ -29,10 +29,3 @@ nav_order: 4
 <b>Undergraduate Teaching Assistant - ELE 302: System Design and Analysis (Spring 2011, Princeton University)</b>
 <br>Instructor: Professor Bradley Dickinson
 <br>This undergraduate capstone course for electrical engineering majors covers formal methods for the design and analysis of complex real-world electronic systems integrating microprocessors, communications, and control. It is centered around the design of a miniature autonomous vehicle, in teams of two students, that follows a line on the ground, avoids obstacles, and also has a creative feature of the team's choice. As a TA, I held office hours in the departmental undergraduate lab to provide hands-on support and troubleshooting for teams throughout the semester.
-
-<h2>writing</h2>
-<b>Instructor - SAT Essay Course (Fall 2018)</b>
-<br>I developed and taught a remote mini-course for a class of 30 students in Singapore on how to write the SAT Essay and improve their ability to read and write argument.
-
-<b>Princeton University Writing Center Fellow (Fall 2008 - Spring 2011)</b>
-<br>I was one of ~50 undergraduate and graduate student fellows selected to work at the Writing Center. I held hour-long, one-on-one sessions (>50 conference hours per semester) with student working on writing assignments, dissertations, and oral presentations that varied in topic and discipline. I regularly took part in intensive training sessions and workshops with other Fellows.

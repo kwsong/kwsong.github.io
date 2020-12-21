@@ -4,7 +4,11 @@
 
 title: Katherine Song # the website title (if blank, full name will be used instead)
 first_name: Katherine
+<<<<<<< HEAD
 middle_name: W
+=======
+middle_name: W.
+>>>>>>> e8930e3 (Added pages)
 last_name: Song
 email: kwsong@berkeley.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -13,6 +17,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
+<<<<<<< HEAD
 keywords: # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -21,6 +26,10 @@ icon: favicon.ico # the emoji used as the favicon (alternatively, provide image 
 url: https://kwsong.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 
+=======
+url:  # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
+>>>>>>> e8930e3 (Added pages)
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -73,6 +82,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: kwsong # your GitHub user name
+<<<<<<< HEAD
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -81,6 +91,11 @@ telegram_username: # your Telegram user name
 scholar_userid: haYo48wAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+=======
+twitter_username: # your Twitter handle
+linkedin_username: kwsong # your LinkedIn user name
+scholar_userid: haYo48wAAAAJ # your Google Scholar ID
+>>>>>>> e8930e3 (Added pages)
 orcid_id: 0000-0001-7580-0035 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -88,6 +103,7 @@ publons_id: # your ID on Publons
 osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
+<<<<<<< HEAD
 strava_userid: 8832673
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -104,6 +120,15 @@ instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
+=======
+<<<<<<< HEAD
+work_url: # work page URL
+keybase_username: # your keybase user name
+wikidata_id: # your wikidata id
+=======
+strava_userid: 8832673
+>>>>>>> Added pages
+>>>>>>> e8930e3 (Added pages)
 
 contact_note: >
   E-mail
@@ -122,9 +147,13 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
+<<<<<<< HEAD
 
 blog_name: Katherine's blog # blog_name will be displayed in your blog page
 blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
+=======
+blog_name: # your blog must have a name for it to show up in the nav bar
+>>>>>>> e8930e3 (Added pages)
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -132,6 +161,7 @@ permalink: /blog/:year/:title/
 pagination:
   enabled: true
 
+<<<<<<< HEAD
 related_blog_posts:
   enabled: true
   max_related: 5
@@ -158,6 +188,10 @@ related_blog_posts:
 #external_sources:
 #  - name: medium.com
 #    rss_url: https://medium.com/@al-folio/feed
+=======
+# Comments
+disqus_shortname: kwsong # put your disqus shortname
+>>>>>>> e8930e3 (Added pages)
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -338,6 +372,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
+<<<<<<< HEAD
 enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
@@ -353,6 +388,8 @@ enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
+
+show_social_icons:          false
 
 # -----------------------------------------------------------------------------
 # Library versions
