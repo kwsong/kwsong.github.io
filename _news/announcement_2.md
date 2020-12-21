@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+date: 2000-10-16 14:14:00-0700
 inline: false
 ---
 
