@@ -68,6 +68,7 @@ a, table.table a {
   font-size: 0.875rem;
   a {
     color: inherit;
+
     &:hover {
       color: var(--global-theme-color);
       text-decoration: none;
@@ -407,10 +408,17 @@ footer.sticky-bottom {
         transition: all 0.15s ease;
       }
       div.abstract.hidden {
+
         border: dashed 1px var(--global-bg-color);
       }
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
+/*
+        border: dashed 1px white;
+      }
+      div.abstract.hidden.open {
+        border-color: $grey-color;
+*/
       }
     }
   }
