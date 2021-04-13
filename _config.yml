@@ -51,13 +51,10 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-<<<<<<< HEAD
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-=======
 strava_userid: 8832673
->>>>>>> Added pages
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -135,12 +132,8 @@ plugins:
 
 scholar:
 
-<<<<<<< HEAD
-  last_name: Einstein
-  first_name: [Albert, A.]
-=======
   last_name: Song
->>>>>>> Added pages
+  first_name: [Katherine, K.]
 
   style: apa
   locale: en
@@ -162,7 +155,6 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
 enable_google_analytics:    false
 enable_panelbear_analytics: false
 enable_mansory:             true
@@ -170,14 +162,7 @@ enable_math:                true
 enable_tooltips:            false
 enable_darkmode:            true
 show_social_icons:          false
-=======
-enable_google_analytics:  false
-enable_mansory:           true
-enable_math:              true
-enable_tooltips:          false
-enable_darkmode:          true
-show_social_icons:        false
->>>>>>> Added pages
+
 
 # -----------------------------------------------------------------------------
 # Library versions

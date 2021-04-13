@@ -4,10 +4,13 @@
 
 // Typography
 
+<<<<<<< HEAD
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
 }
 
+=======
+>>>>>>> restored accidentally-deleted files and updated publications
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
@@ -65,9 +68,15 @@ a, table.table a {
 
 .post-description {
   margin-bottom: 2rem;
+<<<<<<< HEAD
   font-size: 0.875rem;
   a {
     color: inherit;
+=======
+  a {
+    color: inherit;
+    font-size: 0.875rem;
+>>>>>>> restored accidentally-deleted files and updated publications
     &:hover {
       color: var(--global-theme-color);
       text-decoration: none;
@@ -123,7 +132,11 @@ a, table.table a {
     display: block;
     width: 22px;
     height: 2px;
+<<<<<<< HEAD
     background-color: var(--global-icon-color);
+=======
+    background-color: $grey-color-dark;
+>>>>>>> restored accidentally-deleted files and updated publications
     border-radius: 1px;
     margin-bottom: 4px;
     transition: all 0.2s;
@@ -186,10 +199,17 @@ a, table.table a {
 
 // Footer
 footer.fixed-bottom {
+<<<<<<< HEAD
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
   .container {
     color: var(--global-footer-text-color);
+=======
+  color: var(--global-footer-text-color);
+  background-color: var(--global-footer-bg-color);
+  font-size: 0.75rem;
+  .container {
+>>>>>>> restored accidentally-deleted files and updated publications
     padding-top: 9px;
     padding-bottom: 8px;
   }
@@ -247,6 +267,7 @@ footer.sticky-bottom {
   }
 }
 
+<<<<<<< HEAD
 .pagination {
   .page-item {
     .page-link {
@@ -261,6 +282,12 @@ footer.sticky-bottom {
         background-color: var(--global-theme-color);
       }
     }
+=======
+.pagination .page-item.active .page-link {
+  background-color: var(--global-theme-color);
+  &:hover {
+    background-color: var(--global-theme-color);
+>>>>>>> restored accidentally-deleted files and updated publications
   }
 }
 
@@ -407,10 +434,17 @@ footer.sticky-bottom {
         transition: all 0.15s ease;
       }
       div.abstract.hidden {
+<<<<<<< HEAD
         border: dashed 1px var(--global-bg-color);
       }
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
+=======
+        border: dashed 1px white;
+      }
+      div.abstract.hidden.open {
+        border-color: $grey-color;
+>>>>>>> restored accidentally-deleted files and updated publications
       }
     }
   }
