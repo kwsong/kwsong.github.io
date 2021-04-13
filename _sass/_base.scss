@@ -4,13 +4,10 @@
 
 // Typography
 
-<<<<<<< HEAD
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
 }
 
-=======
->>>>>>> restored accidentally-deleted files and updated publications
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
@@ -434,17 +431,17 @@ footer.sticky-bottom {
         transition: all 0.15s ease;
       }
       div.abstract.hidden {
-<<<<<<< HEAD
+
         border: dashed 1px var(--global-bg-color);
       }
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
-=======
+/*
         border: dashed 1px white;
       }
       div.abstract.hidden.open {
         border-color: $grey-color;
->>>>>>> restored accidentally-deleted files and updated publications
+*/
       }
     }
   }
