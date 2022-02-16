@@ -4,6 +4,7 @@ title: Custom Van Build
 description: a life experiment, 2016-2018
 img: /assets/img/van0.jpg
 importance: 5
+category: fun
 ---
 
 <div class="row">

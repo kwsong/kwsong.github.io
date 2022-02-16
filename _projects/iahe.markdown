@@ -4,6 +4,7 @@ title: Homemaker's Hydrogen Generator
 description: 1st Annual IAHE Hydrogen Design Competition, 2010-2011
 img: /assets/img/iahe.png
 importance: 7
+category: research
 ---
 
 During my senior year of college (2010-2011), I was the team captain for Princeton University's submission to the International Association for Hydrogen Energy's 1st Hydrogen Design Competition. Our task was to construct a solar-powered portable (< 1 cubic meter) hydrogen generator, with points awarded based on creativity, hydrogen generation rate, portability, safety, and cost. Our submission, "The Homemaker's Hydrogen Generator," won first place.

@@ -4,6 +4,7 @@ title: Computer Graphics
 description: CS284A, Spring 2020
 img: /assets/img/cs284/dragon.png
 importance: 4
+category: classes
 ---
 <div class="row justify-content-sm-center">
   <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cs284/dragon.gif' | relative_url }}" alt="Iridescent dragon" title="Iridescent dragon" width="60%" height="60%"/>

@@ -4,6 +4,7 @@ title: Implantable Electronics for Prosthetic Control
 description: MIT Media Lab / Draper Laboratory, 2013-2014
 img: /assets/img/uchannel.png
 importance: 4
+category: research
 ---
 
 <div class="row justify-content-sm-center">

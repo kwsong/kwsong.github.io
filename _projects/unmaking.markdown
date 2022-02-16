@@ -4,6 +4,7 @@ title: unmaking
 description: celebrating the creative material of destruction
 img: /assets/img/unmaking.png
 importance: 1
+category: research
 ---
 <div class="row justify-content-sm-center">
         <img src="{{ '/assets/img/unmaking.png' | relative_url }}" alt="" title="unmaking" width="80%" height="80%"/>

@@ -4,6 +4,7 @@ title: Quantum Dot LEDs
 description: MIT ONE Lab, 2011-2013
 img: /assets/img/qdleds.jpg
 importance: 5
+category: research
 ---
 
 <div class="row justify-content-sm-center">
