@@ -89,8 +89,8 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
+    font-size: 1.2rem;
   }
-
   .card-item {
     width: auto;
     margin-bottom: 10px;
@@ -498,6 +498,10 @@ footer.sticky-bottom {
     img {
       width: 100%;
     }
+  }
+
+  .card-title {
+    font-size: 1rem;
   }
 
   .card-item {

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+date: 2020-12-12 20:00:00-0700
 inline: false
 related_posts: false
+show: false
 ---
 
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.

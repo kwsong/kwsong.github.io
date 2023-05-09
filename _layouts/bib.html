@@ -43,9 +43,7 @@
           {%- assign author_is_self = false -%}
           {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
           {%- if site.scholar.last_name contains author_last_name -%}
-            {%- if site.scholar.first_name contains author.first -%}
               {%- assign author_is_self = true -%}
-            {%- endif -%}
           {%- endif -%}
           {%- assign coauthor_url = nil -%}
           {%- if site.data.coauthors[author_last_name] -%}
@@ -114,7 +112,9 @@
         {%- elsif proceedings contains entry.type -%}
           {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
-          {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
+          {%- capture entrytype -%}<em>{{entry.school}}</em> (Thesis){%- endcapture -%}
+        {%- elsif entry.type == "patent" -%}
+          {%- capture entrytype -%}{{entry.nationality}} Patent {{entry.number}}{%- endcapture -%}
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
@@ -124,6 +124,7 @@
         {%- if entry.year -%}
           {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
         {%- endif -%}
+
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
         <div class="periodical">
@@ -132,11 +133,14 @@
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
+        {%- if entry.award == "hm" -%}
+          🏅 <b>Best Paper Honorable Mention (top 5%)</b>
+        {%- endif -%}
 
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
-            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
           {%- endif %}
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
@@ -188,7 +192,7 @@
           {% if site.badges %}
           <div class="badges">
             {%- if site.badges.altmetric_badge %}
-            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
+            <span class="altmetric-embed" data-hide-no-mentions="false" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
               {% if entry.eprint %}
                 data-arxiv-id="{{ entry.eprint }}"
               {% elsif entry.doi %}
@@ -211,7 +215,7 @@
               {% else %}
                 data-id="{{ entry.dimensions }}"
               {% endif %}
-              data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
+              data-hide-zero-citations="false" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
             {%- endif %}
           </div>
           {%- endif %}

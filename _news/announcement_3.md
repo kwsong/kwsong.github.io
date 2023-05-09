@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
+date: 2020-12-12 20:00:00-0700
 related_posts: false
+show: false
 ---
 
 A simple inline announcement with Markdown emoji! :sparkles: :smile:
