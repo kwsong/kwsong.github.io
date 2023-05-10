@@ -22,7 +22,7 @@
         - Major area = Optoelectronic Materials and Devices
         - Minor area = Biological and Health Sciences
         - Completed PhD qualifying exams, coursework, and teaching requirements (2011-2014)
-    - title: Bachelor of Science and Engineering (BSE) with Highest Honors
+    - title: Bachelor of Science in Engineering (BSE) with Highest Honors
       institution: Princeton University - Electrical Engineering
       year: 2011
       description:
@@ -32,29 +32,29 @@
   type: time_table
   contents:
     - title: Graduate Researcher
-      institution: Hybrid Ecologies Lab, UC Berkeley
+      institution: <a href="https://www.hybrid-ecologies.org" target="_blank">Hybrid Ecologies Lab</a>, UC Berkeley
       year: 2019-present
       description:
         - Advisor = Professor Eric Paulos, Department of Electrical Engineering and Computer Sciences
         - Area of research = decomposable interactive systems
 
     - title: Graduate Research Fellow
-      institution: MIT Media Lab & Charles Stark Draper Laboratory
+      institution: MIT Media Lab <a href="https://biomech.media.mit.edu/" target="_blank">Biomechatronics Group</a> & <a href="https://www.draper.com/" target="_blank">Charles Stark Draper Laboratory</a>
       year: 2013-2014
       description:
         - Advisors = Professor Hugh Herr (MIT Media Lab) and Dr. Bryan L. McLaughlin (Draper Laboratory)
         - Designed and fabricated an implantable peripheral nerve microchannel interface for bi-directional prosthesis control
 
     - title: Graduate Research Fellow
-      institution: Organic Nanostructured Electronics Laboratory, MIT
+      institution: <a href="https://www.onelab.mit.edu/" target="_blank">Organic Nanostructured Electronics Laboratory</a>, MIT
       year: 2011-2013
       description:
-        - Advisor = Professor Vladimir Bulovic, Department of Electrical Engineering and Computer Science
+        - Advisor = Professor Vladimir Bulović, Department of Electrical Engineering and Computer Science
         - Invented an electrophoretic deposition technique to form thin layers of quantum dots (QDs) for light emitting devices
         - Fabricated and characterized record-efficiency near-infrared QD-LEDs using core-shell PbS-CdS quantum dots
 
     - title: Undergraduate Researcher
-      institution: Princeton University
+      institution: <a href="https://nverma.princeton.edu/" target="_blank">Princeton University</a>
       year: 2009-2011
       description:
         - Advisors = Professors Sigurd Wagner and Naveen Verma, Department of Electrical Engineering
@@ -62,8 +62,8 @@
         - Characterized the mechanical flexibility of TFTs made with the new gate dielectric on a plastic substrate
         - Designed and fabricated a TFT circuit to interface between large-area sensing sheets and nanoscale integrated circuit chips for structural health monitoring
 
-    - title: Summer REU Participant
-      institution: Carnegie Mellon University
+    - title: Summer Researcher
+      institution: Carnegie Mellon University Materials Science Research Experience for Undergraduates (REU)
       year: 2008
       description:
         - Advisor = Professor James W. Schneider, Department of Chemical Engineering
@@ -73,7 +73,7 @@
   type: time_table
   contents:
     - title: Technology Innovation Summer Research Associate
-      institution: Accenture Labs Future Technologies Group, San Francisco, CA
+      institution: Accenture Labs <a href="https://www.accenture.com/us-en/services/accenture-labs/future-technologies" target="_blank">Future Technologies Group</a>, San Francisco, CA
       year: 2022
       description:
         - Designed and fabricated a 100% backyard-degradable packaging system that wirelessly heats its contents
