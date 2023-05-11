@@ -56,7 +56,8 @@
           {%- endif -%}
 
           {%- if forloop.length > 1 -%}
-            {%- if forloop.first == false -%},&nbsp;{%- endif -%}
+            {%- if forloop.first == false and forloop.length == 2 -%}&nbsp;{%- endif -%}
+            {%- if forloop.first == false and forloop.length > 2 -%},&nbsp;{%- endif -%}
             {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
           {%- endif -%}
           {%- if author_is_self -%}
@@ -106,13 +107,14 @@
 
         <!-- Journal/Book title and date -->
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
-        {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
         {% if entry.type == "article" -%}
           {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
           {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
-        {%- elsif thesis contains entry.type -%}
-          {%- capture entrytype -%}<em>{{entry.school}}</em> (Thesis){%- endcapture -%}
+        {%- elsif entry.type == "thesis" -%}
+          {%- capture entrytype -%}Undergraduate Thesis ({{entry.school}}){%- endcapture -%}
+        {%- elsif entry.type == "mastersthesis" -%}
+          {%- capture entrytype -%} Master's Thesis ({{entry.school}}){%- endcapture -%} 
         {%- elsif entry.type == "patent" -%}
           {%- capture entrytype -%}{{entry.nationality}} Patent {{entry.number}}{%- endcapture -%}
         {%- else -%}

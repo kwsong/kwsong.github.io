@@ -39,7 +39,7 @@
         - Area of research = decomposable interactive systems
 
     - title: Graduate Research Fellow
-      institution: MIT Media Lab <a href="https://biomech.media.mit.edu/" target="_blank">Biomechatronics Group</a> & <a href="https://www.draper.com/" target="_blank">Charles Stark Draper Laboratory</a>
+      institution: <a href="https://biomech.media.mit.edu/" target="_blank">MIT Media Lab Biomechatronics Group</a> & <a href="https://www.draper.com/" target="_blank">Charles Stark Draper Laboratory</a>
       year: 2013-2014
       description:
         - Advisors = Professor Hugh Herr (MIT Media Lab) and Dr. Bryan L. McLaughlin (Draper Laboratory)
@@ -54,7 +54,7 @@
         - Fabricated and characterized record-efficiency near-infrared QD-LEDs using core-shell PbS-CdS quantum dots
 
     - title: Undergraduate Researcher
-      institution: <a href="https://nverma.princeton.edu/" target="_blank">Princeton University</a>
+      institution: Large Area Electronics Group & <a href="https://nverma.princeton.edu/" target="_blank">Verma Lab</a>, Princeton University
       year: 2009-2011
       description:
         - Advisors = Professors Sigurd Wagner and Naveen Verma, Department of Electrical Engineering
@@ -73,7 +73,7 @@
   type: time_table
   contents:
     - title: Technology Innovation Summer Research Associate
-      institution: Accenture Labs <a href="https://www.accenture.com/us-en/services/accenture-labs/future-technologies" target="_blank">Future Technologies Group</a>, San Francisco, CA
+      institution: <a href="https://www.accenture.com/us-en/services/accenture-labs/future-technologies" target="_blank">Future Technologies Group</a>, Accenture Labs, San Francisco, CA
       year: 2022
       description:
         - Designed and fabricated a 100% backyard-degradable packaging system that wirelessly heats its contents
@@ -122,7 +122,7 @@
       items:
         - Founded student group and led weekly meetings for Berkeley undergraduates interested in HCI
     - title: Chair
-      institution: MIT Microsystems Technology Laboratories Annual Research Conference (MARC2013)
+      institution: <a href="https://mtlsites.mit.edu/marc/2013/about/" target="_blank">MARC2013</a> - MIT Microsystems Technology Laboratories Annual Research Conference
       year: 2013
       items:
         - Led the planning and execution of a ~300-attendee, student-run annual conference
