@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Implantable Electronics for Prosthetic Control
-description: MIT Media Lab / Draper Laboratory, 2013-2014
+title: Peripheral Neural Interfaces
+description: MIT Media Lab, 2013-2014
 img: /assets/img/uchannel.png
 importance: 4
-category: implantable electronics
+category: micro/nano electronics
 ---
 
 <div class="row justify-content-sm-center">

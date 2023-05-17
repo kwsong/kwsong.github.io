@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Homemaker's Hydrogen Generator
-description: 1st Annual IAHE Hydrogen Design Competition, 2010-2011
+title: Homemaker's H2 Generator
+description: IAHE Design Competition, 2011
 img: /assets/img/iahe.png
 importance: 7
 category: other

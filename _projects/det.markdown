@@ -2,7 +2,7 @@
 layout: page
 title: Designing Emerging Technologies
 description: Fall 2019 portfolio
-img: /assets/img/encountering.jpg
+img: /assets/img/encountering.png
 importance: 3
 category: classes
 ---

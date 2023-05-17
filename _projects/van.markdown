@@ -2,7 +2,7 @@
 layout: page
 title: Custom Van Build
 description: a life experiment, 2016-2018
-img: /assets/img/van0.jpg
+img: /assets/img/van0.png
 importance: 5
 category: other
 ---

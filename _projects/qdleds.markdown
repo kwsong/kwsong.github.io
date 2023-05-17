@@ -2,9 +2,9 @@
 layout: page
 title: Quantum Dot LEDs
 description: MIT ONE Lab, 2011-2013
-img: /assets/img/qdleds.jpg
+img: /assets/img/qdleds.png
 importance: 5
-category: optoelectronics
+category: micro/nano electronics
 ---
 
 <div class="row justify-content-sm-center">

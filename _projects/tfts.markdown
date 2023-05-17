@@ -4,7 +4,7 @@ title: Flexible Large-Area Electronics
 description: Princeton University, 2009-2011
 img: /assets/img/flexTFTs.png
 importance: 6
-category: optoelectronics
+category: micro/nano electronics
 ---
 As an undergraduate at Princeton University, I conducted research in the domain of large-area electronics under the guidance of Professors Sigurd Wagner and, in my senior year, Naveen Verma.
 

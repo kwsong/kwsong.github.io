@@ -26,7 +26,7 @@ I was the instructor for a 2-week introductory workshop on VR/AR applications. I
 
 <details><summary><b>Graduate Teaching Assistant - MAS.600: Human 2.0 (Spring 2014, MIT Media Lab)</b></summary>
 <br>Instructor: Professor Hugh Herr
-<br>This is a graduate-level course covering principles underlying current and future technologies for human augmentation. The course involved a series of guest lectures on topics such as robotic exoskeletons and powered orthoses, external limb prostheses, neural implant technology, social-emotional prostheses, and cognitive prostheses. The course requires student presentations, critiques of class readings, and a final project. As one of 2 TAs, I was responsible for helping students develop and execute their final projects, as well as helping coordinate lectures and the grading of assignments.
+<br>This is a graduate-level course covering principles underlying current and future technologies for human augmentation. The course involved a series of guest lectures on topics such as robotic exoskeletons and powered orthoses, external limb prostheses, neural implant technology, social-emotional prostheses, and cognitive prostheses. The course requires student presentations, critiques of class readings, and a final project. As one of 2 TAs, I was responsible for guiding students in the development and execution of their final projects, as well as helping coordinate lectures and the grading of assignments.
 </details>
 <p/>
 
@@ -49,5 +49,5 @@ I was the instructor for a 2-week introductory workshop on VR/AR applications. I
 <p/>
 
 <details><summary><b>Princeton University Writing Center Fellow (Fall 2008 - Spring 2011)</b></summary>
-<br>I was one of ~50 undergraduate and graduate student fellows selected to work at the Writing Center. I held hour-long, one-on-one sessions (>50 conference hours per semester) with student working on writing assignments, dissertations, and oral presentations that varied in topic and discipline. I regularly took part in intensive training sessions and workshops with other Fellows.
+<br>I was one of ~50 undergraduate and graduate student fellows selected to work at the Writing Center. I held hour-long, one-on-one sessions (>50 conference hours per semester) with students working on writing assignments, dissertations, and oral presentations across different topic and discipline. I regularly took part in intensive training sessions and workshops with other Fellows.
 </details>
