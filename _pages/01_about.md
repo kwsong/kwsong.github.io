@@ -6,7 +6,7 @@ description: PhD student in Computer Science @ UC Berkeley.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 2023pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p></p>
