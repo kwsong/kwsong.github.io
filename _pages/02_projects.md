@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Here is a smattering of some projects - research, coursework, and personal endeavors - that I've worked on and [at least partially] documented. Click on a panel to learn more.
-nav: false
+nav: true
 nav_order: 4
 display_categories: [HCI, micro/nano electronics, classes, other]
 horizontal: false

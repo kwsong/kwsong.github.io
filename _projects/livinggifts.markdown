@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Living Gifts
-description: supporting long-distance friendships
+title: slow technology
+description: interactive devices with intentionally friction-ful design
 img: /assets/img/livinggifts.jpg
-importance: 2
-category: HCI
+importance: 100
+category:
 ---
 
-coming soon...
+Inspired by Will Odom et al., I am interested in the theme of slow technology and how slowness and intentionally friction-ful design can be leveraged to help us, as researchers, and people more generally learn about our relationship with technology. I have conducted

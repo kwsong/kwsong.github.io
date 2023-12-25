@@ -6,10 +6,10 @@ description: click each line to learn more
 nav: true
 nav_order: 3
 ---
-<h2>technical courses</h2>
+<h2>engineering & design courses</h2>
 
 <details><summary><b>Co-Instructor - CS 160: User Interface Design and Development (Summer 2023, UC Berkeley)</b></summary>
-This upper-level undergraduate course is the Berkeley CS department's introduction to HCI and UI design. It covers the user-centered design and analysis of graphical user interfaces through a combination of lectures and projects requiring students to work in teams to implement functional user interfaces for target tasks and evaluate their interfaces through user studies. For Summer 2023, CS 160's enrollment is capped at 60. As an Instructor of Record, I am responsible for delivering lectures as well as various logistical tasks including hiring, grading, updating the curriculum from previous years, and coordinating course logistics among 8 staff members.
+This upper-level undergraduate course is the Berkeley CS department's introduction to HCI and UI design. It covers the user-centered design and analysis of graphical user interfaces through a combination of lectures and projects requiring students to work in teams to implement functional user interfaces for target tasks and evaluate their interfaces through user studies. For Summer 2023, CS 160's enrollment was capped at 60 due to staffing constraints. As a Head Instructor, I was responsible for delivering lectures as well as various logistical tasks including hiring, grading, updating the curriculum from previous years, and coordinating course logistics among 7 staff members. Course website <a href="https://www.cs160su23.com" target="_blank">here</a>.
 </details>
 <p/>
 

@@ -7,7 +7,7 @@ importance: 3
 category: classes
 ---
 
-During the Fall 2019 semester, I took a class called Designing Emerging Technologies in which we designed and built systems using computer vision with Google Cloud Vision, speech recognition with Google Cloud Speech-to-Text/Text-to-Speech, virtual reality with Unity and Oculus Quest, and robotics with a Husqvarna Automower. Below are descriptions of my teams' projects around these 4 themes. 
+During the Fall 2019 semester, I took a class called Designing Emerging Technologies in which we designed and built systems using computer vision with Google Cloud Vision, speech recognition with Google Cloud Speech-to-Text/Text-to-Speech, virtual reality with Unity and Oculus Quest, and robotics with a Husqvarna Automower. Below are descriptions of my teams' projects around these 4 themes.
 
 <h2>jack black: a new player in blackjack counter culture</h2>
 <em>Katherine Song, Paul Stott, Yejun Wu, Annie Zheng</em>

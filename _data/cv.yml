@@ -96,19 +96,26 @@
 - title: Service (Academic)
   type: time_table
   contents:
+    - title: Associate Chair
+      institution: ACM Conference on Designing Interactive Systems (DIS)
+      year: 2024
+      items:
+        - Papers Track, Artefacts and Systems
+
     - title: Guest Editor
       institution: Transactions of Computer-Human Interaction (TOCHI)
       year: 2023
-      items: 
+      items:
         - Special Issue on  “Unmaking and HCI:Techniques, Technologies, Materials, and Philosophies Beyond Making”
 
     - title: Reviewer
       year: 2019-2023
       items:
-        - CHI - 2021, 2022***, 2023**
+        - CHI - 2021, 2022***, 2023**, 2024**
         - CSCW - 2022*
         - DIS  - 2023
         - ISCW  - 2019
+        - TEI - 2023
         - UIST - 2023
         - (* denotes outstanding review)
     - title: PhD Admissions Student Reviewer
@@ -128,23 +135,23 @@
         - Led the planning and execution of a ~300-attendee, student-run annual conference
         - Spearheaded the introduction of new types of technical presentations and interactive fun/educational opportunities
 
-- title: Service (Community) 
+- title: Service (Community)
   type: time_table
   contents:
     - title: Volunteer
       institution: Berkeley Humane Society
       year: 2019-2020
-      items: 
+      items:
         - Supported shelter operations through facility upkeep and animal caretaking
     - title: Mentor
       institution: Quarry Lane High School FIRST Robotics Team #7419
       year: 2018-2019
-      items: 
+      items:
         - Guided the robot design and program management for the 1st FRC team for Quarry Lane HS (Dublin, CA)
     - title: Volunteer
       institution: Nepal Volunteers Council
       year: 2016
-      items: 
+      items:
         - Set up a computer lab for a school in Kathmandu, Nepal by repairing donated units and salvaging parts
 
 
@@ -181,7 +188,7 @@
       items:
         - 3 years of stipend, tuition, fees, and travel
     - title: Henry Ford II Fellowship
-      institution: Massachusetts Institute of Technology 
+      institution: Massachusetts Institute of Technology
       year: 2011-2012
       items:
         - 1 year of stipend, tuition, and fees
@@ -224,7 +231,7 @@
 #  type: nested_list
 #  contents:
 #    - title: Topic 1.
-#      items: 
+#      items:
 #        - Description 1.
 #        - Description 2.
 #    - title: Topic 2.

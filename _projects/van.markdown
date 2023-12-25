@@ -22,7 +22,7 @@ category: other
 
 In 2016, I bought a Ram Promaster 1500 from Texas and turned it into an off-the-grid tiny (very, very tiny) home. I spent about 1.5 years living out of the van, with the support of showers at Apple, where I was working at the time, and Planet Granite Sunnyvale, my local climbing gym. This project is woefully lacking in documentation, but I have included random snippets that might be interesting or useful to people here.
 
-I sadly no longer own this van (thanks, city living), but I am happy knowing that it is now in the hands of someone who can appreciate it to its fullest! I look forward to being able to do a second van build.
+I sadly no longer own this van (thanks, city living), but I am happy knowing that it is now in the hands of someone who can appreciate it to its fullest! I look forward to being able to do a second van build. Below are some brief, incomplete notes and reflections from some parts of the build.
 
 <h2>prep</h2>
 With only 2 weeks to go before my lease expired, I had to quickly prep my new home to be move-in ready. I spent a few days after work in the Apple parking lot scouring the van with Krud Kutter and laying down FatMat RattleTrap over the wheels and floors for sound-deadening. For insulation, I mounted pieces of 1" polyiso rigid board and a plastic condensation barrier to the walls and ceilings. I then drilled a few wooden supports into the walls and ceilings and nailed on cedar planking, stuffing gaps with extra denim insulation and GreatStuff as I went. For the floors, I used basic subfloor material, 1/8" plywood, and laminate flooring. After all this, the height and width of my van were roughly 5'3" - I could stand upright in it and sleep lying along the van's short side, but virtually no one else I knew could.
@@ -46,4 +46,4 @@ I did buy a waterless toilet (one of those futuristic-looking ones that operates
 <h2>furniture overhaul</h2>
 In 2018, I found myself with extra time, so I did a total overhaul of the "furniture" in the van. I designed and built under-bed cabinets, a pull-out drawer for a portable propane-powered stove/oven, and a small kitchen island/counter with space for a fridge. I built my furniture at IsGood Woodworks in Seattle with the mentorship of John Good, the owner there.
 
-I re-built the bed frame with PVC pipe with the idea that it could also be reconfigured into a futon-style couch. This mechanism did not work as smoothly as I hoped.
+I re-built the bed frame with PVC piping with the idea that it could also be reconfigured into a futon-style couch.

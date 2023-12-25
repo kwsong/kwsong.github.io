@@ -23,7 +23,7 @@ I then fabricated and characterized TFTs made with the new dielectric in a top-g
 
   <div class="row justify-content-sm-center">
       <div class="col-sm-8 mt-3 mt-md-0">
-          <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/scanning2.png' | relative_url }}" alt="scanning circuit" title="scanning circuit"/>
+          <img class="img-fluid" src="{{ '/assets/img/scanning2.png' | relative_url }}" alt="scanning circuit" title="scanning circuit"/>
       </div>
       <div class="col-sm-4 mt-3 mt-md-0">
           <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/laes.jpg' | relative_url }}" alt="fabricated scanning circuit" title="fabricated scanning circuit"/>
@@ -33,7 +33,7 @@ I then fabricated and characterized TFTs made with the new dielectric in a top-g
       Scanning circuit schematic (left) and fabricated large-area circuits on glass
   </div>
 
-For my senior thesis, I worked with Professors Wagner and Verma to design and fabricate an a-Si:H TFT "scanning" circuit to interface between arrays of thin-film sensors and nanoscale integrated circuit chips for a system to monitor the formation and propagation of cracks on a bridge.
+For my senior thesis, I worked with Professors Wagner and Verma to design and fabricate a dynamic a-Si:H TFT "scanning" circuit to interface between arrays of thin-film sensors and nanoscale integrated circuit chips for a system to monitor the formation and propagation of cracks on a bridge. This "hybrid" system architecture takes advantage of the high speed processing of modern ICs and the low cost, mechanical flexibility, and scalable nature of large-area electronics.
 
 <div class="publications">
   <h2>publications</h2>
