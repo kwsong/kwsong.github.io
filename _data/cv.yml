@@ -97,6 +97,12 @@
   type: time_table
   contents:
     - title: Associate Chair
+      institution: ACM Conference on User Interface Software and Technology (UIST)
+      year: 2024
+      items:
+        - Papers Track
+
+    - title: Associate Chair
       institution: ACM Conference on Designing Interactive Systems (DIS)
       year: 2024
       items:
@@ -113,7 +119,7 @@
       items:
         - CHI - 2021, 2022***, 2023**, 2024**
         - CSCW - 2022*
-        - DIS  - 2023
+        - DIS  - 2023, 2024
         - ISCW  - 2019
         - TEI - 2023
         - UIST - 2023
