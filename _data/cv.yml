@@ -4,14 +4,14 @@
     - name: Full Name
       value: Katherine W. Song
     - name: Affiliation
-      value: University of California, Berkeley
+      value: University of California, Berkeley (→Delft University of Technology in Fall 2024)
 
 - title: Education
   type: time_table
   contents:
     - title: Doctor of Philosophy (PhD)
       institution: University of California, Berkeley - Computer Science
-      year: 2024 (expected)
+      year: 2024
       description:
         - Major area = Human-Computer Interaction
         - Minor areas = Computer Graphics and Vision, New Media
@@ -97,6 +97,12 @@
   type: time_table
   contents:
     - title: Associate Chair
+      institution: ACM Conference on Human Factors in Computing Systems (CHI)
+      year: 2025
+      items:
+        - Design Subcommittee (papers)
+
+    - title: Associate Chair
       institution: ACM Conference on User Interface Software and Technology (UIST)
       year: 2024
       items:
@@ -110,19 +116,19 @@
 
     - title: Guest Editor
       institution: Transactions on Computer-Human Interaction (TOCHI)
-      year: 2023
+      year: 2024
       items:
         - Special Issue on “Unmaking and HCI:Techniques, Technologies, Materials, and Philosophies Beyond Making”
 
     - title: Reviewer
-      year: 2019-2023
+      year: 2019-2024
       items:
         - CHI - 2021, 2022***, 2023**, 2024**
         - CSCW - 2022*
-        - DIS  - 2023, 2024
+        - DIS  - 2023, 2024**
         - ISCW  - 2019
         - TEI - 2023
-        - UIST - 2023
+        - UIST - 2023, 2024
         - (* denotes outstanding review)
     - title: PhD Admissions Student Reviewer
       year: 2022
