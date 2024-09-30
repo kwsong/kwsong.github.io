@@ -103,6 +103,12 @@
         - Design Subcommittee (papers)
 
     - title: Associate Chair
+      institution: ACM Conference on Tangible and Embedded Interaction (TEI)
+      year: 2025
+      items:
+        - Papers Track
+
+    - title: Associate Chair
       institution: ACM Conference on User Interface Software and Technology (UIST)
       year: 2024
       items:
@@ -123,12 +129,12 @@
     - title: Reviewer
       year: 2019-2024
       items:
-        - CHI - 2021, 2022***, 2023**, 2024**
+        - CHI - 2021, 2022***, 2023**, 2024**, 2025
         - CSCW - 2022*
         - DIS  - 2023, 2024**
         - ISCW  - 2019
-        - TEI - 2023
-        - UIST - 2023, 2024
+        - TEI - 2023, 2025
+        - UIST - 2023, 2024*
         - (* denotes outstanding review)
     - title: PhD Admissions Student Reviewer
       year: 2022
