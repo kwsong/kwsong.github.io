@@ -11,9 +11,9 @@
   contents:
     - title: Assistant Professor of Human-Centred Artificial Intelligence
       institution: Delft University of Technology - Faculty of Industrial Design Engineering
-      year: 2024
+      year: 2024-present
       description:
-        - Knowledge and Intelligent Design Group
+        - Knowledge and Intelligence Design Group
 
 - title: Education
   type: time_table
@@ -42,7 +42,7 @@
   contents:
     - title: Graduate Researcher
       institution: <a href="https://www.hybrid-ecologies.org" target="_blank">Hybrid Ecologies Lab</a>, UC Berkeley
-      year: 2019-present
+      year: 2019-2024
       description:
         - Advisor = Professor Eric Paulos, Department of Electrical Engineering and Computer Sciences
         - Area of research = decomposable interactive systems
@@ -107,9 +107,9 @@
   contents:
     - title: Associate Chair
       institution: ACM Conference on Human Factors in Computing Systems (CHI)
-      year: 2025
+      year: 2025, 2026
       items:
-        - Design Subcommittee (papers)
+        - Design (2025) and Blending Interactions (2026) Subcommittees (papers)
 
     - title: Associate Chair
       institution: ACM Conference on Tangible and Embedded Interaction (TEI)
@@ -119,13 +119,13 @@
 
     - title: Associate Chair
       institution: ACM Conference on User Interface Software and Technology (UIST)
-      year: 2024
+      year: 2024, 2025
       items:
         - Papers Track
 
     - title: Associate Chair
       institution: ACM Conference on Designing Interactive Systems (DIS)
-      year: 2024
+      year: 2024, 2025
       items:
         - Papers Track, Artefacts and Systems
 
@@ -138,12 +138,12 @@
     - title: Reviewer
       year: 2019-2024
       items:
-        - CHI - 2021, 2022***, 2023**, 2024**, 2025
+        - CHI - 2021, 2022***, 2023**, 2024**, 2025**
         - CSCW - 2022*
-        - DIS  - 2023, 2024**
+        - DIS  - 2023, 2024**, 2025***
         - ISCW  - 2019
         - TEI - 2023, 2025
-        - UIST - 2023, 2024*
+        - UIST - 2023, 2024*, 2025
         - (* denotes outstanding review)
     - title: PhD Admissions Student Reviewer
       year: 2022
@@ -187,6 +187,11 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: Delft Technology Fellowship
+      institution: Delft University of Technology
+      year: 2025
+      items:
+        - Start-up grant for top female scientists
     - title: BEARGradS Award, William S. Floyd, Jr. Fellowship in Engineering
       institution: Berkeley Graduate Division
       year: 2023-2024
