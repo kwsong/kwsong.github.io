@@ -8,8 +8,13 @@ nav_order: 3
 ---
 <h2>engineering & design courses</h2>
 
+<details><summary><b>Design Chair - IDEM2200: Product Futures Studio (Q3+Q4, 2025/2026 and 2026/2027, TU Delft)</b></summary>
+This required course in TU Delft's MSc in Integrated Product Design program introduces students to design research. I coached ~25 students to design and execute individual design research studies on topics such as physical reservoir computing, bio-inspired interfaces, assistive devices, and 4D printing. In 2026/2027 I also coordinated projects and activities for students in the Knowledge and Intelligence Design theme more broadly (60 students).
+</details>
+<p/>
+
 <details><summary><b>Co-Instructor - CS 160: User Interface Design and Development (Summer 2023, UC Berkeley)</b></summary>
-This upper-level undergraduate course is the Berkeley CS department's introduction to HCI and UI design. It covers the user-centered design and analysis of graphical user interfaces through a combination of lectures and projects requiring students to work in teams to implement functional user interfaces for target tasks and evaluate their interfaces through user studies. For Summer 2023, CS 160's enrollment was capped at 60 due to staffing constraints. As a Head Instructor, I was responsible for delivering lectures as well as various logistical tasks including hiring, grading, updating the curriculum from previous years, and coordinating course logistics among 7 staff members. Course website <a href="https://www.cs160su23.com" target="_blank">here</a>.
+This upper-level undergraduate course is the Berkeley CS department's introduction to HCI and UI design. It covers the user-centered design and analysis of graphical user interfaces through a combination of lectures and projects requiring students to work in teams to implement functional user interfaces for target tasks and evaluate their interfaces through user studies. For Summer 2023, CS 160's enrollment was capped at 60 due to staffing constraints. As a Head Instructor, I was responsible for delivering lectures as well as various logistical tasks including hiring, grading, updating the curriculum from previous years, and coordinating course logistics among 7 staff members. Course website <a href="https://kwsong.github.io/cs160su23/" target="_blank">here</a>.
 </details>
 <p/>
 
